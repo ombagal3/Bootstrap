@@ -1,0 +1,21 @@
+/* .container-fluid { 
+       -webkit-text-fill-color: aliceblue;
+
+    }
+.navbar-toggler{
+
+     -webkit-text-fill-color: aliceblue;
+} */
+ body{
+    background-color: black;
+    color: white;
+ }
+ svg{
+     height: 45px;
+ }
+ 
+ @media (max-width:768px) {
+    .full-width {
+        width: 100%;
+    }
+} 
